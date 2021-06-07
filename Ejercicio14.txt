@@ -1,0 +1,13 @@
+Algoritmo Algoritmo14
+	
+	Definir num1, num2, result Como Entero
+	
+	result = num1%num2
+	
+	si result = 0 Entonces
+		Mostrar "Es divisible"
+	SiNo
+		Mostrar "No es Divisible"
+	FinSi
+	
+FinAlgoritmo
