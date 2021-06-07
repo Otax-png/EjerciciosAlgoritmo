@@ -1,0 +1,11 @@
+Algoritmo Algoritmo5
+	Definir num, imp Como Entero
+	
+	Leer num
+	
+	imp = num + 1
+		
+	Mostrar imp
+	
+	
+FinAlgoritmo
