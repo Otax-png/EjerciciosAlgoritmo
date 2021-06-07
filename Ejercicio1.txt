@@ -1,0 +1,12 @@
+Algoritmo Algoritmo1
+	Definir num1, num2, Suma Como Entero
+	
+	
+	Leer num1, num2
+	
+	Suma = num1 + num2
+	
+	Mostrar Suma
+	
+	
+FinAlgoritmo
