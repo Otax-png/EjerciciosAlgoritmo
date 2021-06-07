@@ -1,0 +1,25 @@
+Algoritmo Algoritmo13
+	
+	Definir volCilindro, altura, radio Como Entero
+	
+	Mostrar "Ingrese Altura del Cilindro"
+	
+	Leer altura
+	
+	Mostrar "Ingrese Radio del Cilindro"
+	
+	Leer radio
+	
+	Si altura >= 0 Entonces
+		si radio >= 0 Entonces
+			volCilindro = pi()*radio*radio*altura
+			
+			Mostrar "El volumen del cilindro es " + volCilindro + "u^2"
+		FinSi
+		
+	SiNo
+		Mostrar "Verifica el valor de ALtura Y Radio"
+	FinSi
+	
+	
+FinAlgoritmo
