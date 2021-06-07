@@ -1,0 +1,11 @@
+Algoritmo Algoritmo2
+	Definir pais, capital, text Como Texto	
+	
+	Leer pais, capital
+	
+	text = capital + " es la capital de " + pais
+	
+	Mostrar text
+	
+	
+FinAlgoritmo
