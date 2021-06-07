@@ -1,0 +1,14 @@
+Algoritmo Algoritmo10
+	
+	Definir perimetro, area, base, altura Como entero
+	
+	Leer base, altura
+	
+	area = base * altura
+	perimetro = 2*base + 2*altura
+	
+	
+	Mostrar base
+	Mostrar altura
+	
+FinAlgoritmo
