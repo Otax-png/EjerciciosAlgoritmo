@@ -1,0 +1,17 @@
+Algoritmo Algoritmo15
+	
+	Definir num1 Como Entero
+	
+	Leer num1
+	
+	si num1 = 0 Entonces
+		Mostrar "El numero ingresado es nulo"
+	SiNo
+		Si num > 0 Entonces
+			Mostrar "El numero ingresado es Positivo"
+		SiNo
+			Mostrar "El numero ingresado es Negativo"
+		FinSi
+	FinSi
+	
+FinAlgoritmo
