@@ -1,0 +1,14 @@
+Algoritmo Algoritmo9
+	
+	Definir palabra1, palabra2, aux Como texto
+	
+	Leer palabra1, palabra2
+	
+	palabra1 = aux
+	palabra2 = palabra1
+	aux = palabra2
+	
+	Mostrar palabra1
+	Mostrar palabra2
+	
+FinAlgoritmo
