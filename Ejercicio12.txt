@@ -1,0 +1,14 @@
+Algoritmo Algoritmo12
+	
+	Definir valCelsius, numFh Como Real
+	
+	Mostrar "Ingrese un numero en grados Fahrenheit"
+	
+	Leer numFh
+	
+	valCelsius = (numFh -32)/1.8
+	
+	Mostrar valCelsius
+	
+	
+FinAlgoritmo
