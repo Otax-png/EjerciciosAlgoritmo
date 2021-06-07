@@ -1,0 +1,21 @@
+Algoritmo Algoritmo17
+	
+	Definir lado1, lado2, lado3 Como Entero
+	
+	Leer lado1, lado2, lado3
+	
+	si lado1> lado2 Entonces
+		Si lado1 > lado3 Entonces
+			Mostrar "Es un triangulo Equilatero"
+		SiNo
+			Mostrar "Es un triangulo Isoceles"
+		FinSi
+	SiNo
+		Si lado3 > lado2 Entonces
+			Mostrar "Es triangulo Isoceles"
+		SiNo
+			Mostrar "Es un triangulo escaleno"
+		FinSi
+	FinSi
+	
+FinAlgoritmo
