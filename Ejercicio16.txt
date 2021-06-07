@@ -1,0 +1,21 @@
+Algoritmo Algoritmo16	
+	
+	Definir num1, num2, num3 Como Entero
+	
+	Leer num1, num2, num3
+	
+	si num1 > num2 Entonces
+		Si num1 > num3 Entonces
+			Mostrar "El numero mayor es Numero 1"
+		SiNo
+			Mostrar "El numero mayor es Numero 3"
+		FinSi
+	SiNo
+		Si num3 > num2 Entonces
+			Mostrar "El numero mayor es Numero 3"
+		SiNo
+			Mostrar "El numero mayor es Numero 2"
+		FinSi
+	FinSi
+	
+FinAlgoritmo
