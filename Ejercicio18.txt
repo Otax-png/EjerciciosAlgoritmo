@@ -1,0 +1,52 @@
+Algoritmo Algoritmo18
+	
+	Definir number, digito1, digito2, digito3, digito4 Como Entero
+	Definir suma1, suma2, suma3 Como Entero
+	Definir cade, text  Como Caracter
+	
+	Mostrar "Ingresa un numero de 4 digitos"
+	
+	Leer number;
+	
+	si number>= 0
+		
+		si number < 10000 Entonces
+			
+			cade <- ConvertirATexto(number)
+			text<- Subcadena(cade,1,1)
+			text <- Subcadena(cade,2,2)
+			text <- Subcadena(cade,3,3)
+			text <- Subcadena(cader,4,4)
+			
+			si number <10 Entonces
+				
+				Escribir "La suma total es ", digito1
+				
+			SiNo
+				si number < 100 Entonces
+					suma1 = digito1 + digito2
+					Escribir "La suma total es ", suma1
+				SiNo
+					si number <1000 Entonces
+						suma2 = digito1 + digito2 + digito3
+						Escribir "La suma total es ", suma2
+					SiNo
+						si number <10000 Entonces
+							suma3 = digito1 + digito2 + digito3 + digito4
+							Escribir "La suma total es ", suma3
+						SiNo
+							Escribir "Numero Fuera de Limite"
+						FinSi
+					FinSi
+				FinSi
+			FinSi
+			
+		SiNo
+			Escribir "Numero fuera de limite"
+			
+		FinSi
+		
+	SiNo
+		Mostrar "Numero fuera de limite"
+	FinSi
+FinAlgoritmo
