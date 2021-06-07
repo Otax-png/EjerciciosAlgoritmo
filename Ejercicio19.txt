@@ -1,0 +1,16 @@
+Algoritmo Algoritmo19
+	
+	Definir numAleatorio, resultado, num Como Entero
+	
+	Mostrar "El numero es" + numAleatorio
+	
+	Si num <= 125 Entonces
+		resultado = num%5
+		Si resultado = 0 Entonces
+			Mostrar "Correcto"
+		SiNo
+			Mostrar "Incorrecto"
+		FinSi
+	FinSi
+	
+FinAlgoritmo
