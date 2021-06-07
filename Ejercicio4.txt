@@ -1,0 +1,13 @@
+Algoritmo Algoritmo4
+	Definir number, square, cube Como Entero
+	
+	Leer number
+	
+	square = number * number
+	cube = number * number * number
+	
+	Mostrar square
+	Mostrar cube
+	
+	
+FinAlgoritmo
