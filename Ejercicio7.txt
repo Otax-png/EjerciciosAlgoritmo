@@ -1,0 +1,11 @@
+Algoritmo Algoritmo7
+	Definir num, result Como Entero
+		
+	generarAleatorio(0,200)
+	
+	Mostrar num
+	
+	result = num - (num*30%)
+	
+	
+FinAlgoritmo
