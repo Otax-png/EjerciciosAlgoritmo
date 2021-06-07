@@ -1,0 +1,13 @@
+Algoritmo Algoritmo3
+	Definir num, doble, triple Como Entero
+	
+	Leer num
+	
+	doble = 2*num
+	triple = 3*num
+	
+	Mostrar doble
+	Mostrar triple
+	
+	
+FinAlgoritmo
