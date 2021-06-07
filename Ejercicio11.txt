@@ -1,0 +1,16 @@
+Algoritmo Algoritmo11
+	
+	Definir valYarda, valMetro, valPie, valPlg, numCm Como entero
+	
+	Mostrar "Ingrese un numero en cm"
+	
+	Leer numCm
+	
+	valYarda = numCm * (1/91.44)
+	valMetro = numCm * (1/100)
+	valPie = numCm * (1/39.5)
+	valPlg = numCm * (1/2.5)
+	
+	Mostrar num + "cm equivalen a: " + valYarda + "yd" + valMetro + "m" + valPie + "ft" + valPlg + "plg"
+	
+FinAlgoritmo
