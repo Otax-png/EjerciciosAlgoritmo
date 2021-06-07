@@ -1,0 +1,9 @@
+Algoritmo Algoritmo8
+	
+	Definir num1, num2, num3, promedio Como Entero
+	
+	promedio = (num1 + num2 + num3)/3
+	
+	Mostrar promedio
+	
+FinAlgoritmo
