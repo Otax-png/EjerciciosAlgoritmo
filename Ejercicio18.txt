@@ -49,4 +49,4 @@ Algoritmo Algoritmo18
 	SiNo
 		Mostrar "Numero fuera de limite"
 	FinSi
-FinAlgoritmo
+FinAlgoritmo	
